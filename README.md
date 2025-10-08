@@ -18,7 +18,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por el mun
 
 Aquí podrás encontrar algunos de los proyectos que he realizado durante mi formación:
 
-- **Empiezo a aprender a usar el condicional if<br>(https://github.com/DavidCalderonNavarro/Modulo_de_programacion/tree/main/Calder%C3%B3nDavid26)**: En este proyecto básico, exploro el uso de la estructura condicional if en Java para tomar decisiones dentro del programa.
+- **Empiezo a aprender a usar el condicional if<br>(https://github.com/DavidCalderonNavarro/Modulo_de_programacion/tree/main/Calder%C3%B3nDavid26)**<br>En este proyecto básico, exploro el uso de la estructura condicional if en Java para tomar decisiones dentro del programa.
 
 ---
 
