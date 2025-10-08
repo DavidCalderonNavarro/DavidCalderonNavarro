@@ -33,7 +33,7 @@ Estas son algunas de las tecnologías con las que estoy trabajando:
 
 ---
 
-## Contacto
+## Contacto / Contact
 
 Puedes contactarme a través de:
 
