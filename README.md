@@ -1,10 +1,10 @@
-# ¡Hola! 👋 Soy David
+# ¡Hola! 👋 Soy David / ¡Hello! 👋 I'm David
 
 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por el mundo de la programación y el desarrollo web. Actualmente estoy aprendiendo y mejorando mis habilidades en tecnologías web para convertirme en un profesional competente y creativo.
 
 ---
 
-## Sobre mí
+## <center> Sobre mí / About me
 
 - Estudiante de DAW
 - Apasionado por el desarrollo frontend y backend
@@ -14,7 +14,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por el mun
 
 ---
 
-## Proyectos destacados
+## Proyectos destacados / Featured projects
 
 Aquí podrás encontrar algunos de los proyectos que he realizado durante mi formación:
 
@@ -22,7 +22,7 @@ Aquí podrás encontrar algunos de los proyectos que he realizado durante mi for
 
 ---
 
-## Tecnologías
+## Tecnologías / Tecnology
 
 Estas son algunas de las tecnologías con las que estoy trabajando:
 
