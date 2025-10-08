@@ -1,33 +1,44 @@
-<h1 align="center">Bienvenido a mi perfil!!!👋</h1>
+# ¡Hola! 👋 Soy David
 
-###
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por el mundo de la programación y el desarrollo web. Actualmente estoy aprendiendo y mejorando mis habilidades en tecnologías web para convertirme en un profesional competente y creativo.
 
-<p align="left">Mi nombre es David, estoy ahora mismo haciendo un grado superior de DAW y soy de Málaga.🐟</p>
+---
 
-###
+## Sobre mí
 
-<h2 align="left">Sobre mí</h2>
+- Estudiante de DAW
+- Apasionado por el desarrollo frontend y backend
+- Me gusta aprender nuevas tecnologías y enfrentar nuevos retos
+- Actualmente estudiando: HTML, CSS, JavaScript, Java, MySQL, y más
+- Herramientas que uso: VSCode, Git, GitHub, Eclipse, etc...
 
-###
+---
 
-<p align="left">✨ Creando codigos corruptos desde 2025.<br>📚 Como he comentado, estoy en DAW.<br>🎯 Mis metas son: Poder programar a grn escala.<br> 🎉Mi pasatiempo favorito es la fiesta.</p>
+## Proyectos destacados
 
-###
+Aquí podrás encontrar algunos de los proyectos que he realizado durante mi formación:
 
-<h2 align="left">I code with</h2>
+- **Empiezo a aprender a usar el condicional if(https://github.com/DavidCalderonNavarro/M-dulo-Programaci-n/tree/master/Calder%C3%B3nDavid26)**: En este proyecto básico, exploro el uso de la estructura condicional if en Java para tomar decisiones dentro del programa.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
+## Tecnologías
 
-###
+Estas son algunas de las tecnologías con las que estoy trabajando:
+
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Java
+- **Bases de datos:** MySQL
+- **Control de versiones:** Git, GitHub
+
+---
+
+## Contacto
+
+Puedes contactarme a través de:
+
+- 📧 Email: dcalnav@gmail.com
+
+---
+
+¡Gracias por visitar mi perfil! 😊
