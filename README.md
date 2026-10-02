@@ -61,9 +61,13 @@
             src="https://github-readme-streak-stats.herokuapp.com/?user=DavidCalderonNavarro&hide_border=true&ring=777BB4&fire=FF6B35&currStreakLabel=777BB4"
             alt="Racha de contribuciones"> </p>
     <h2 align="center">GitHub Activity</h2>
-    <p align="center"> <img
-            src="https://github-readme-activity-graph.vercel.app/graph?username=DavidCalderonNavarro&theme=github-compact&hide_border=true&area=true"
-            alt="Actividad de GitHub"> </p>
+
+<p align="center">
+    <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=DavidCalderonNavarro&bg_color=ffffff&color=777BB4&line=777BB4&point=777BB4&area=true&hide_border=true"
+        alt="GitHub Activity Graph"
+    >
+</p>
     <h2 align="center">Goals</h2>
     <p align="center"> Mejorar mis conocimientos de <strong>PHP y Python</strong> <br> Aprender y aplicar
         <strong>Laravel</strong> <br> Mejorar mis interfaces utilizando <strong>Bootstrap</strong> <br> Trabajar con
