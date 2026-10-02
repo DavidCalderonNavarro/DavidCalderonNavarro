@@ -7,6 +7,14 @@ Actualmente estoy ampliando mis conocimientos tanto en frontend como en backend,
 
 🚀 Actualmente estoy aprendiendo
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=777BB4&center=true&vCenter=true&width=800&lines=🚀+Tecnologías+que+estoy+aprendiendo;🐘+PHP;🐍+Python;⚡+Laravel;🎨+Bootstrap;🌐+HTML+%26+CSS;⚙️+JavaScript" alt="Tecnologías" />
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,laravel,bootstrap,html,css,js,java,mysql&perline=9" />
+</p>
+
 Durante este curso estoy trabajando principalmente con:
 
 <h2 align="center">🚀 Tecnologías que estoy aprendiendo</h2>
