@@ -1,100 +1,53 @@
-👋 ¡Hola! Soy David Calderón Navarro
-💻 Estudiante de 2º DAW | Desarrollo Web | Backend & Frontend
-
-Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW), apasionado por la programación y el desarrollo de aplicaciones web.
-
-Actualmente estoy ampliando mis conocimientos tanto en frontend como en backend, trabajando con diferentes lenguajes, frameworks y herramientas de desarrollo. Me interesa especialmente seguir mejorando mis habilidades y convertir lo aprendido en proyectos prácticos.
-
-<h2 align="center">🚀 Tecnologías que estoy aprendiendo</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,laravel,bootstrap,html,css,js,java,mysql,git,github,vscode&perline=6" />
-</p>
-
-También sigo profundizando en conceptos de programación, bases de datos, desarrollo web y buenas prácticas de código.
-
-📂 Proyectos
-
-En mi perfil puedes encontrar diferentes ejercicios y proyectos realizados durante mi formación en DAW, incluyendo prácticas de programación, desarrollo web y bases de datos.
-
-🐘 Ejercicios de PHP
-
-Colección de ejercicios realizados para practicar los fundamentos y diferentes conceptos de PHP.
-
-🔗 Ver repositorio
-
-☕ Programación en Java
-
-Ejercicios realizados durante el aprendizaje de programación orientada a objetos y los fundamentos de Java.
-
-🔗 Ver repositorio
-
-🎯 Objetivos
-
-Mi objetivo durante mi formación es seguir creciendo como desarrollador y adquirir una base sólida que me permita desarrollar aplicaciones completas.
-
-Actualmente estoy centrado en:
-
-📚 Mejorar mis conocimientos de PHP y Python.
-
-🚀 Aprender y aplicar Laravel.
-
-🎨 Mejorar mis interfaces utilizando Bootstrap.
-
-🗄️ Trabajar con bases de datos y SQL.
-
-💻 Crear proyectos cada vez más completos.
-
-🧠 Mejorar mi lógica y capacidad para resolver problemas.
-
-🔧 Aprender buenas prácticas y mejorar la calidad de mi código.
-
-🌱 Seguir descubriendo nuevas tecnologías.
-
-📈 Actualmente
-🎓 2º DAW
-│
-├── 🐘 PHP
-├── 🐍 Python
-├── ⚡ Laravel
-├── 🎨 Bootstrap
-├── 🌐 HTML / CSS
-├── ⚙️ JavaScript
-├── ☕ Java
-└── 🗄️ MySQL
-
-
-Estoy utilizando Git y GitHub para gestionar mis proyectos y mantener un registro de mi evolución como desarrollador.
-
-👨‍💻 Sobre mí
-
-🎓 Estudiante de 2º DAW
-
-💻 Interesado en el desarrollo web
-
-🖥️ Backend & Frontend
-
-📚 Siempre aprendiendo nuevas tecnologías
-
-🚀 Motivado por crear proyectos y mejorar mis habilidades
-
-🧠 Interesado en seguir creciendo como desarrollador
-
-📫 Contacto
-
-📧 Email: dcalnav@gmail.com
-
-🐙 GitHub:
-github.com/DavidCalderonNavarro
-
-<h3 align="center">
-
-🚀 Gracias por visitar mi perfil
-
-</h3> <p align="center"> <i>Aprendiendo, programando y mejorando un poco cada día.</i> 💻 </p>
-
-<h2 align="center">🐙 Pac-Man de mis contribuciones</h2>
-
-<p align="center">
-  <img src="./pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
-</p>
+<h1 align="center">👋 ¡Hola! Soy David Calderón Navarro</h1>
+    <h3 align="center">💻 Estudiante de 2º DAW | Desarrollo Web | Backend & Frontend</h3>
+    <p align="center"> Soy estudiante de <strong>2º de Desarrollo de Aplicaciones Web (DAW)</strong>, apasionado por la
+        programación y el desarrollo de aplicaciones web. </p>
+    <p align="center"> Actualmente estoy ampliando mis conocimientos tanto en <strong>frontend como en backend</strong>,
+        trabajando con diferentes lenguajes, frameworks y herramientas de desarrollo. Me interesa especialmente seguir
+        mejorando mis habilidades y convertir lo aprendido en proyectos prácticos. </p> <br>
+    <h2 align="center">🚀 Tecnologías que estoy aprendiendo</h2>
+    <p align="center"> <img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=777BB4&center=true&vCenter=true&width=800&lines=🐘+PHP;🐍+Python;⚡+Laravel;🎨+Bootstrap;🌐+HTML+%26+CSS;⚙️+JavaScript;☕+Java;🗄️+MySQL"
+            alt="Tecnologías" /> </p>
+    <p align="center"> <img
+            src="https://skillicons.dev/icons?i=php,python,laravel,bootstrap,html,css,js,java,mysql,git,github,vscode&perline=6"
+            alt="Tecnologías" /> </p>
+    <p align="center"> También sigo profundizando en conceptos de programación, bases de datos, desarrollo web y buenas
+        prácticas de código. </p> <br>
+    <h2 align="center">📂 Proyectos</h2>
+    <p align="center"> En mi perfil puedes encontrar diferentes ejercicios y proyectos realizados durante mi formación
+        en DAW, incluyendo prácticas de programación, desarrollo web y bases de datos. </p>
+    <h3 align="center">🐘 Ejercicios de PHP</h3>
+    <p align="center"> Colección de ejercicios realizados para practicar los fundamentos y diferentes conceptos de PHP.
+    </p>
+    <p align="center"> <a href="https://github.com/DavidCalderonNavarro/ejercicios_php"> 🔗 Ver repositorio </a> </p>
+    <h3 align="center">☕ Programación en Java</h3>
+    <p align="center"> Ejercicios realizados durante el aprendizaje de programación orientada a objetos y los
+        fundamentos de Java. </p>
+    <p align="center"> <a href="https://github.com/DavidCalderonNavarro/Modulo_de_programacion"> 🔗 Ver repositorio </a>
+    </p> <br>
+    <h2 align="center">🎯 Objetivos</h2>
+    <p align="center"> Mi objetivo durante mi formación es seguir creciendo como desarrollador y adquirir una base
+        sólida que me permita desarrollar aplicaciones completas. </p>
+    <p align="center"> Actualmente estoy centrado en: </p>
+    <p align="center"> 📚 Mejorar mis conocimientos de <strong>PHP y Python</strong><br> 🚀 Aprender y aplicar
+        <strong>Laravel</strong><br> 🎨 Mejorar mis interfaces utilizando <strong>Bootstrap</strong><br> 🗄️ Trabajar
+        con <strong>bases de datos y SQL</strong><br> 💻 Crear proyectos cada vez más completos<br> 🧠 Mejorar mi lógica
+        y capacidad para resolver problemas<br> 🔧 Aprender buenas prácticas y mejorar la calidad de mi código<br> 🌱
+        Seguir descubriendo nuevas tecnologías </p> <br>
+    <h2 align="center">📈 Actualmente</h2>
+    <p align="center"> 🎓 <strong>2º DAW</strong> </p>
+    <p align="center"> 🐘 PHP &nbsp; • &nbsp; 🐍 Python &nbsp; • &nbsp; ⚡ Laravel &nbsp; • &nbsp; 🎨 Bootstrap </p>
+    <p align="center"> 🌐 HTML / CSS &nbsp; • &nbsp; ⚙️ JavaScript &nbsp; • &nbsp; ☕ Java &nbsp; • &nbsp; 🗄️ MySQL </p>
+    <p align="center"> Estoy utilizando <strong>Git y GitHub</strong> para gestionar mis proyectos y mantener un
+        registro de mi evolución como desarrollador. </p> <br>
+    <h2 align="center">👨‍💻 Sobre mí</h2>
+    <p align="center"> 🎓 Estudiante de 2º DAW<br> 💻 Interesado en el desarrollo web<br> 🖥️ Backend & Frontend<br> 📚
+        Siempre aprendiendo nuevas tecnologías<br> 🚀 Motivado por crear proyectos y mejorar mis habilidades<br> 🧠
+        Interesado en seguir creciendo como desarrollador </p> <br>
+    <h2 align="center">📫 Contacto</h2>
+    <p align="center"> 📧 <strong>Email:</strong> <a href="mailto:dcalnav@gmail.com">dcalnav@gmail.com</a> </p>
+    <p align="center"> 🐙 <strong>GitHub:</strong> <a href="https://github.com/DavidCalderonNavarro">
+            github.com/DavidCalderonNavarro </a> </p> <br>
+    <h2 align="center">🚀 Gracias por visitar mi perfil</h2>
+    <p align="center"> <i>Aprendiendo, programando y mejorando un poco cada día.</i> 💻 </p>
