@@ -61,21 +61,6 @@
             src="https://github-readme-streak-stats.herokuapp.com/?user=DavidCalderonNavarro&hide_border=true&ring=777BB4&fire=FF6B35&currStreakLabel=777BB4"
             alt="Racha de contribuciones"> </p>
     <h2 align="center">GitHub Activity</h2>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
     <h2 align="center">Goals</h2>
     <p align="center"> Mejorar mis conocimientos de <strong>PHP y Python</strong> <br> Aprender y aplicar
         <strong>Laravel</strong> <br> Mejorar mis interfaces utilizando <strong>Bootstrap</strong> <br> Trabajar con
