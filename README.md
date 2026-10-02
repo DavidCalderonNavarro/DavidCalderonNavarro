@@ -48,7 +48,7 @@
             </td>
         </tr>
     </table>
-    <h2 align="center">GitHub Statistics</h2>
+    <h2 align="center">GitHub Overall</h2>
 
 <table align="center">
   <tr>
