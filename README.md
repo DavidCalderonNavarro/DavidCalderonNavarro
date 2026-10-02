@@ -93,5 +93,5 @@
                 alt="GitHub"> </a> </p> <br>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&section=footer&reversal=false&text=Thanks+for+Visiting+My+Profile&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=1231236&strokeWidth=10&desc=Aprendiendo%2C+programando+y+mejorando+un+poco+cada+d%C3%ADa.&descSize=20&descAlign=50&descAlignY=60">
 
-![Projects List Banner 2](https://ishan-rest.vercel.app/svg/projects/hacker/PHP_Exercises[PHP programming exercises,[PHP,HTML,CSS]]/Java_Programming[Object-oriented programming,[Java,OOP]]/HTTP_Analysis[HTTP requests & responses,[HTTP,Networking,Firefox]])
+![Projects](https://ishan-rest.vercel.app/svg/projects/hacker/PHP_Exercises[PHP_exercises,[PHP,HTML,CSS]]/Java_Programming[Java_OOP,[Java,OOP]]/HTTP_Analysis[HTTP_requests,[HTTP,Networking,Firefox]])
 
