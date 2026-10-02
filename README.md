@@ -35,12 +35,6 @@
         con <strong>bases de datos y SQL</strong><br> 💻 Crear proyectos cada vez más completos<br> 🧠 Mejorar mi lógica
         y capacidad para resolver problemas<br> 🔧 Aprender buenas prácticas y mejorar la calidad de mi código<br> 🌱
         Seguir descubriendo nuevas tecnologías </p> <br>
-    <h2 align="center">📈 Actualmente</h2>
-    <p align="center"> 🎓 <strong>2º DAW</strong> </p>
-    <p align="center"> 🐘 PHP &nbsp; • &nbsp; 🐍 Python &nbsp; • &nbsp; ⚡ Laravel &nbsp; • &nbsp; 🎨 Bootstrap </p>
-    <p align="center"> 🌐 HTML / CSS &nbsp; • &nbsp; ⚙️ JavaScript &nbsp; • &nbsp; ☕ Java &nbsp; • &nbsp; 🗄️ MySQL </p>
-    <p align="center"> Estoy utilizando <strong>Git y GitHub</strong> para gestionar mis proyectos y mantener un
-        registro de mi evolución como desarrollador. </p> <br>
     <h2 align="center">👨‍💻 Sobre mí</h2>
     <p align="center"> 🎓 Estudiante de 2º DAW<br> 💻 Interesado en el desarrollo web<br> 🖥️ Backend & Frontend<br> 📚
         Siempre aprendiendo nuevas tecnologías<br> 🚀 Motivado por crear proyectos y mejorar mis habilidades<br> 🧠
