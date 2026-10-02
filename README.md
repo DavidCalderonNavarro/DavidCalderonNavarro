@@ -13,7 +13,7 @@
         trabajando con diferentes lenguajes, frameworks y herramientas de desarrollo. </p>
     <p align="center"> Me interesa especialmente seguir mejorando mis habilidades y convertir lo aprendido en proyectos
         prácticos. </p>
-    <h2 align="center">Tecnologías que estoy aprendiendo</h2>
+    <h2 align="center">Tecnologies that i'm learning</h2>
     <p align="center"> <img
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=777BB4&center=true&vCenter=true&width=700&lines=PHP;Python;Laravel;Bootstrap;HTML+%26+CSS;JavaScript;Java;MySQL"
             alt="Tecnologías que estoy aprendiendo"> </p>
