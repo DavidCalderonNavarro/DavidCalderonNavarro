@@ -9,19 +9,11 @@ Actualmente estoy ampliando mis conocimientos tanto en frontend como en backend,
 
 Durante este curso estoy trabajando principalmente con:
 
-🐘 PHP
+<h2 align="center">🚀 Tecnologías que estoy aprendiendo</h2>
 
-🐍 Python
-
-⚡ Laravel
-
-🎨 Bootstrap
-
-🌐 HTML5
-
-🎨 CSS3
-
-⚙️ JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,laravel,bootstrap,html,css,js,java,mysql,git,github,vscode&perline=6" />
+</p>
 
 También sigo profundizando en conceptos de programación, bases de datos, desarrollo web y buenas prácticas de código.
 
