@@ -8,7 +8,7 @@
     <h2 align="center">🚀 Tecnologías que estoy aprendiendo</h2>
     <p align="center"> <img
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=777BB4&center=true&vCenter=true&width=800&lines=🐘+PHP;🐍+Python;⚡+Laravel;🎨+Bootstrap;🌐+HTML+%26+CSS;⚙️+JavaScript;☕+Java;🗄️+MySQL"
-            alt="Tecnologías" /> </p>
+            /> </p>
     <p align="center"> <img
             src="https://skillicons.dev/icons?i=php,python,laravel,bootstrap,html,css,js,java,mysql,git,github,vscode&perline=6"
             alt="Tecnologías" /> </p>
