@@ -25,30 +25,6 @@ Durante este curso estoy trabajando principalmente con:
 
 También sigo profundizando en conceptos de programación, bases de datos, desarrollo web y buenas prácticas de código.
 
-🛠️ Tecnologías y herramientas
-Frontend
-
-
-
-
-
-
-Backend
-
-
-
-
-
-
-Bases de datos
-
-Herramientas
-
-
-
-
-
-
 📂 Proyectos
 
 En mi perfil puedes encontrar diferentes ejercicios y proyectos realizados durante mi formación en DAW, incluyendo prácticas de programación, desarrollo web y bases de datos.
@@ -128,3 +104,9 @@ github.com/DavidCalderonNavarro
 🚀 Gracias por visitar mi perfil
 
 </h3> <p align="center"> <i>Aprendiendo, programando y mejorando un poco cada día.</i> 💻 </p>
+
+<h2 align="center">🐙 Pac-Man de mis contribuciones</h2>
+
+<p align="center">
+  <img src="./pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
+</p>
