@@ -64,10 +64,6 @@
     <p align="center"> <img
             src="https://github-readme-activity-graph.vercel.app/graph?username=DavidCalderonNavarro&theme=github-compact&hide_border=true&area=true"
             alt="Actividad de GitHub"> </p>
-    <h2 align="center">Currently Working On</h2>
-    <p align="center"> <strong>2º DAW</strong> </p>
-    <p align="center"> PHP &nbsp; • &nbsp; Python &nbsp; • &nbsp; Laravel &nbsp; • &nbsp; Bootstrap </p>
-    <p align="center"> HTML / CSS &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; Java &nbsp; • &nbsp; MySQL </p>
     <h2 align="center">Goals</h2>
     <p align="center"> Mejorar mis conocimientos de <strong>PHP y Python</strong> <br> Aprender y aplicar
         <strong>Laravel</strong> <br> Mejorar mis interfaces utilizando <strong>Bootstrap</strong> <br> Trabajar con
@@ -89,5 +85,4 @@
     <p align="center"> <a href="https://github.com/DavidCalderonNavarro"> <img
                 src="https://img.shields.io/badge/GitHub-DavidCalderonNavarro-181717?style=for-the-badge&logo=github&logoColor=white"
                 alt="GitHub"> </a> </p> <br>
-    <h2 align="center">Thanks for Visiting My Profile</h2>
-    <p align="center"> <i>Aprendiendo, programando y mejorando un poco cada día.</i> </p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&section=footer&reversal=false&text=Thanks+for+Visiting+My+Profile&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=1231236&strokeWidth=10&desc=Aprendiendo%2C+programando+y+mejorando+un+poco+cada+d%C3%ADa.&descSize=20&descAlign=50&descAlignY=60">
