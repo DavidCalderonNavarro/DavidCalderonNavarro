@@ -92,5 +92,3 @@
                 src="https://img.shields.io/badge/GitHub-DavidCalderonNavarro-181717?style=for-the-badge&logo=github&logoColor=white"
                 alt="GitHub"> </a> </p> <br>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&section=footer&reversal=false&text=Thanks+for+Visiting+My+Profile&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=1231236&strokeWidth=10&desc=Aprendiendo%2C+programando+y+mejorando+un+poco+cada+d%C3%ADa.&descSize=20&descAlign=50&descAlignY=60">
-
-<p>![Projects List Banner 1](https://ishan-rest.vercel.app/svg/projects/dev/Project_Alpha[A modern web app,[Python,React,JavaScript]]/Project_Beta[ML pipeline,[Python,TensorFlow,Flask]])</p>
