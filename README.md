@@ -5,10 +5,6 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW), apasionado por la
 
 Actualmente estoy ampliando mis conocimientos tanto en frontend como en backend, trabajando con diferentes lenguajes, frameworks y herramientas de desarrollo. Me interesa especialmente seguir mejorando mis habilidades y convertir lo aprendido en proyectos prácticos.
 
-🚀 Actualmente estoy aprendiendo
-
-Durante este curso estoy trabajando principalmente con:
-
 <h2 align="center">🚀 Tecnologías que estoy aprendiendo</h2>
 
 <p align="center">
