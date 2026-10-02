@@ -1,5 +1,5 @@
 <p align="center"> <img
-            src="[https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&section=header&reversal=false&text=Hola%2C+soy+David&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=1231236&strokeWidth=10&desc=Estudiante+de+2%C2%BADAW&descSize=20&descAlign=50&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&section=header&reversal=false&text=Hello+everyone.+I%27m+David%21&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=1231236&strokeWidth=10&desc=I%27m+student+of+2%C2%BADAW&descSize=20&descAlign=50&descAlignY=60)"
+            src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&section=header&reversal=false&text=Hello+everyone.+I%27m+David%21&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=1231236&strokeWidth=10&desc=I%27m+student+of+2%C2%BADAW&descSize=20&descAlign=50&descAlignY=60"
             alt="Cabecera"> </p>
     <p align="center"> <strong>Estudiante de 2º DAW | Desarrollo Web | Backend & Frontend</strong> </p>
     <p align="center"> <a href="https://github.com/DavidCalderonNavarro"> <img
