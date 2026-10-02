@@ -80,10 +80,6 @@
         <strong>bases de datos y SQL</strong> <br> Crear proyectos cada vez más completos <br> Mejorar mi lógica y
         capacidad para resolver problemas <br> Aprender buenas prácticas y mejorar la calidad de mi código <br> Seguir
         descubriendo nuevas tecnologías </p>
-    <h2 align="center">Contributions</h2>
-    <p align="center"> <img
-            src="https://raw.githubusercontent.com/DavidCalderonNavarro/DavidCalderonNavarro/output/github-contribution-snake.svg"
-            alt="Animación de contribuciones"> </p>
     <h2 align="center">About Me</h2>
     <p align="center"> Estudiante de <strong>2º DAW</strong> <br> Interesado en el desarrollo web <br> Backend &
         Frontend <br> Siempre aprendiendo nuevas tecnologías <br> Motivado por crear proyectos y mejorar mis habilidades
