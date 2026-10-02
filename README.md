@@ -1,44 +1,130 @@
-# ¡Hola! 👋 Soy David / ¡Hello! 👋 I'm David
+👋 ¡Hola! Soy David Calderón Navarro
+💻 Estudiante de 2º DAW | Desarrollo Web | Backend & Frontend
 
-Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por el mundo de la programación y el desarrollo web. Actualmente estoy aprendiendo y mejorando mis habilidades en tecnologías web para convertirme en un profesional competente y creativo.
+Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW), apasionado por la programación y el desarrollo de aplicaciones web.
 
----
+Actualmente estoy ampliando mis conocimientos tanto en frontend como en backend, trabajando con diferentes lenguajes, frameworks y herramientas de desarrollo. Me interesa especialmente seguir mejorando mis habilidades y convertir lo aprendido en proyectos prácticos.
 
-## <center> Sobre mí / About me
+🚀 Actualmente estoy aprendiendo
 
-- Estudiante de DAW
-- Apasionado por el desarrollo frontend y backend
-- Me gusta aprender nuevas tecnologías y enfrentar nuevos retos
-- Actualmente estudiando: HTML, CSS, JavaScript, Java, MySQL, y más
-- Herramientas que uso: VSCode, Git, GitHub, Eclipse, etc...
+Durante este curso estoy trabajando principalmente con:
 
----
+🐘 PHP
 
-## Proyectos destacados / Featured projects
+🐍 Python
 
-Aquí podrás encontrar algunos de los proyectos que he realizado durante mi formación:
+⚡ Laravel
 
-- **Mi primer ejercicio usando los objetos<br>([https://github.com/DavidCalderonNavarro/Modulo_de_programacion/tree/main/Calder%C3%B3nDavid26](https://github.com/DavidCalderonNavarro/Modulo_de_programacion/blob/main/CalderonDavid3.16/src/ejercicio1/java/Ejercicio1.java))**<br>
+🎨 Bootstrap
 
----
+🌐 HTML5
 
-## Tecnologías / Tecnology
+🎨 CSS3
 
-Estas son algunas de las tecnologías con las que estoy trabajando:
+⚙️ JavaScript
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** Java
-- **Bases de datos:** MySQL
-- **Control de versiones:** Git, GitHub
+También sigo profundizando en conceptos de programación, bases de datos, desarrollo web y buenas prácticas de código.
 
----
+🛠️ Tecnologías y herramientas
+Frontend
 
-## Contacto / Contact
 
-Puedes contactarme a través de:
 
-- 📧 Email: dcalnav@gmail.com
 
----
 
-¡Gracias por visitar mi perfil! 😊
+
+Backend
+
+
+
+
+
+
+Bases de datos
+
+Herramientas
+
+
+
+
+
+
+📂 Proyectos
+
+En mi perfil puedes encontrar diferentes ejercicios y proyectos realizados durante mi formación en DAW, incluyendo prácticas de programación, desarrollo web y bases de datos.
+
+🐘 Ejercicios de PHP
+
+Colección de ejercicios realizados para practicar los fundamentos y diferentes conceptos de PHP.
+
+🔗 Ver repositorio
+
+☕ Programación en Java
+
+Ejercicios realizados durante el aprendizaje de programación orientada a objetos y los fundamentos de Java.
+
+🔗 Ver repositorio
+
+🎯 Objetivos
+
+Mi objetivo durante mi formación es seguir creciendo como desarrollador y adquirir una base sólida que me permita desarrollar aplicaciones completas.
+
+Actualmente estoy centrado en:
+
+📚 Mejorar mis conocimientos de PHP y Python.
+
+🚀 Aprender y aplicar Laravel.
+
+🎨 Mejorar mis interfaces utilizando Bootstrap.
+
+🗄️ Trabajar con bases de datos y SQL.
+
+💻 Crear proyectos cada vez más completos.
+
+🧠 Mejorar mi lógica y capacidad para resolver problemas.
+
+🔧 Aprender buenas prácticas y mejorar la calidad de mi código.
+
+🌱 Seguir descubriendo nuevas tecnologías.
+
+📈 Actualmente
+🎓 2º DAW
+│
+├── 🐘 PHP
+├── 🐍 Python
+├── ⚡ Laravel
+├── 🎨 Bootstrap
+├── 🌐 HTML / CSS
+├── ⚙️ JavaScript
+├── ☕ Java
+└── 🗄️ MySQL
+
+
+Estoy utilizando Git y GitHub para gestionar mis proyectos y mantener un registro de mi evolución como desarrollador.
+
+👨‍💻 Sobre mí
+
+🎓 Estudiante de 2º DAW
+
+💻 Interesado en el desarrollo web
+
+🖥️ Backend & Frontend
+
+📚 Siempre aprendiendo nuevas tecnologías
+
+🚀 Motivado por crear proyectos y mejorar mis habilidades
+
+🧠 Interesado en seguir creciendo como desarrollador
+
+📫 Contacto
+
+📧 Email: dcalnav@gmail.com
+
+🐙 GitHub:
+github.com/DavidCalderonNavarro
+
+<h3 align="center">
+
+🚀 Gracias por visitar mi perfil
+
+</h3> <p align="center"> <i>Aprendiendo, programando y mejorando un poco cada día.</i> 💻 </p>
