@@ -73,7 +73,6 @@
 </td>
   </tr>
 </table>
-    <h2 align="center">GitHub Activity</h2>
     <h2 align="center">Goals</h2>
     <p align="center"> Mejorar mis conocimientos de <strong>PHP y Python</strong> <br> Aprender y aplicar
         <strong>Laravel</strong> <br> Mejorar mis interfaces utilizando <strong>Bootstrap</strong> <br> Trabajar con
